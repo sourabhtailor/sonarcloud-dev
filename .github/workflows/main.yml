@@ -1,0 +1,42 @@
+name: PHP CI/CD with SonarCloud
+
+on:
+  push:
+    branches: [ main ]  # You can change this to `dev` or any other branch
+
+jobs:
+  scan-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      VERSION_TAG: v1.0.${{ github.run_number }}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+           fetch-depth: 0
+
+      - name: SonarCloud Scan
+        uses: SonarSource/sonarcloud-github-action@v2
+        with:
+          args: >
+            -Dsonar.projectKey=sourabhtailor_sonarcloud-dev
+            -Dsonar.organization=sourabhtailor
+            -Dsonar.sources=.
+            -Dsonar.exclusions=vendor/**,tests/**,.github/**,docs/**,*.md
+            -Dsonar.projectVersion=${{ env.VERSION_TAG }}
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
+      - name: SonarCloud Quality Gate
+        uses: SonarSource/sonarcloud-quality-gate-action@v1.1.0
+        with:
+          scanMetadataReportFile: .scannerwork/report-task.txt
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
+      - name: Deploy to Server
+        if: success()  # Will run only if Quality Gate passed
+        run: |
+          echo "Deploying version $VERSION_TAG..."
+          bash ./deploy/deploy.sh $VERSION_TAG
