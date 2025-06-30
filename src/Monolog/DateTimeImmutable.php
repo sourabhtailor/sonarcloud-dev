@@ -13,12 +13,5 @@ namespace Monolog;
 
 class_alias(JsonSerializableDateTimeImmutable::class, 'Monolog\DateTimeImmutable');
 
-// @phpstan-ignore-next-line
-if (false) {
-    /**
-     * @deprecated Use \Monolog\JsonSerializableDateTimeImmutable instead.
-     */
-    class DateTimeImmutable extends JsonSerializableDateTimeImmutable
-    {
-    }
+// @phpstan-ignore-next-lin
 }
