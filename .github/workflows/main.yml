@@ -25,6 +25,9 @@ jobs:
             -Dsonar.sources=.
             -Dsonar.exclusions=vendor/**,tests/**,.github/**,docs/**,*.md
             -Dsonar.projectVersion=${{ env.VERSION_TAG }}
+            -Dsonar.c.file.suffixes=-
+            -Dsonar.cpp.file.suffixes=-
+            -Dsonar.objc.file.suffixes=-
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
