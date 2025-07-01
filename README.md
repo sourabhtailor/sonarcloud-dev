@@ -1,133 +1,122 @@
-<p align="center"><img src="logo.jpg" alt="Monolog" width="400"></p>
+![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
+![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
 
-# Monolog - Logging for PHP [![Continuous Integration](https://github.com/Seldaek/monolog/workflows/Continuous%20Integration/badge.svg?branch=main)](https://github.com/Seldaek/monolog/actions)
+<a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
-[![Total Downloads](https://img.shields.io/packagist/dt/monolog/monolog.svg)](https://packagist.org/packages/monolog/monolog)
-[![Latest Stable Version](https://img.shields.io/packagist/v/monolog/monolog.svg)](httleases
->see the documentation for [Monolog 2.x](https://github.com/Seldaek/monolog/blob/2.x/README.md) or [Monolog 1.x](https://github.com/Seldaek/monolog/blob/1.x/README.md)
+> ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
 
-Monolog sends your logs to files, sockets, inboxes, databases and various
-web services. See the complete list of handlers below. Special handlers
-allow you to build advanced logging strategies.
+[![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
 
-This library implements the [PSR-3](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
-interface that you can type-hint against in your own libraries to keep
-a maximum of interoperability. You can also use it in your applications to
-make sure you can always use another compatible logger at a later time.
-As of 1.11.0 Monolog public APIs will also accept PSR-3 log levels.
-Internally Monolog still uses its own level scheme since it predates PSR-3.
+<h3>Things I code with</h3>
+<p>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" alt="vue.js">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  
+</p>
+<h1>Projects We develop</h1>
 
-<div align="center">
-  <hr>
-  <sup><b>Sponsored by:</b></sup>
-  <br>
-  <a href="https://betterstack.com">
-    <div>
-      <img src="https://github.com/Seldaek/monolog/assets/183678/7de58ce0-2fa2-45c0-b3e8-e60cebb3c4cf" width="200" alt="Better Stack">
-    </div>
-    <div>
-      Better Stack lets you centralize, search, and visualize your logs.
-    </div>
-  </a>
-  <br>
-  <hr>
-</div>
+<ul>
+	<li><b>Vue JS</b></li>
+	<li><b>Nuxt JS</b></li>
+	<li><b>Python</b></li>
+	<li><b>Django</b></li>
+	<li><b>PHP and MYSQL</b></li>
+	<li><b>Angular JS</b></li>
+	<li><b>React JS</b></li>
+	<li><b>AI/ML</b></li>
+</ul>
+<h2> Projects with installation support and code explaination for Premium contact gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
-## Installation
+# Installation
 
-Install the latest version with
+1. Install XAMPP or WAMPP.
 
-```bash
-composer require monolog/monolog
-```
+2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-## Basic Usage
+3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
+    OR follow gitbash commands
+    
+    i>cd C:\\xampp\htdocs\
+    
+    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    
+4. extract files in C:\\xampp\htdocs\.
 
-```php
-<?php
+5. open link localhost/phpmyadmin
 
-use Monolog\Level;
-use Monolog\Logger;
-use Monolog\Handler\StreamHandler;
+6. click on new at side navbar.
 
-// create a log channel
-$log = new Logger('name');
-$log->pushHandler(new StreamHandler('path/to/your.log', Level::Warning));
+7. give a database name as (onlineshop) hit on create button.
 
-// add records to the log
-$log->warning('Foo');
-$log->error('Bar');
-```
+8. after creating database name click on import.
 
-## Documentation
+9. browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
 
-- [Usage Instructions](doc/01-usage.md)
-- [Handlers, Formatters and Processors](doc/02-handlers-formatters-processors.md)
-- [Utility Classes](doc/03-utilities.md)
-- [Extending Monolog](doc/04-extending.md)
-- [Log Record Structure](doc/message-structure.md)
+10. after importing successfully.
 
-## Support Monolog Financially
+11. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
 
-Get supported Monolog and help fund the project with the [Tidelift Subscription](https://tidelift.com/subscription/pkg/packagist-monolog-monolog?utm_source=packagist-monolog-monolog&utm_medium=referral&utm_campaign=enterprise) or via [GitHub sponsorship](https://github.com/sponsors/Seldaek).
+12. first register and then login
 
-Tidelift delivers commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use.
+13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
-## Third Party Packages
+## If you like my project 
+Bye me Cup of coffee
 
-Third party handlers, formatters and processors are
-[listed in the wiki](https://github.com/Seldaek/monolog/wiki/Third-Party-Packages). You
-can also add your own there if you publish one.
 
-## About
+## visit my other repository with different admin pages with below link
+https://github.com/PuneethReddyHC/online-shopping-system-advanced
 
-### Requirements
+https://github.com/PuneethReddyHC/event-management
 
-- Monolog `^3.0` works with PHP 8.1 or above.
-- Monolog `^2.5` works with PHP 7.2 or above.
-- Monolog `^1.25` works with PHP 5.3 up to 8.1, but is not very maintained anymore and will not receive PHP support fixes anymore.
+##  If you like my project hit a star button
 
-### Support
 
-Monolog 1.x support is somewhat limited at this point and only important fixes will be done. You should migrate to Monolog 2 or 3 where possible to benefit from all the latest features and fixes.
 
-### Submitting bugs and feature requests
+# Screenshots
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adduser.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adminproductadd.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuser.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuseradmin.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlistadmin.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlist.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/cartpage.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/homepage.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/loginmodal.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/mainpage.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productpage.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productzoom.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/registermodal.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/searchfilter.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/searchpage.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/store.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage1.png)
 
-Bugs and feature request are tracked on [GitHub](https://github.com/Seldaek/monolog/issues)
 
-### Framework Integrations
 
-- Frameworks and libraries using [PSR-3](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
-  can be used very easily with Monolog since it implements the interface.
-- [Symfony](http://symfony.com) comes out of the box with Monolog.
-- [Laravel](http://laravel.com/) comes out of the box with Monolog.
-- [Lumen](http://lumen.laravel.com/) comes out of the box with Monolog.
-- [PPI](https://github.com/ppi/framework) comes out of the box with Monolog.
-- [CakePHP](http://cakephp.org/) is usable with Monolog via the [cakephp-monolog](https://github.com/jadb/cakephp-monolog) plugin.
-- [XOOPS 2.6](http://xoops.org/) comes out of the box with Monolog.
-- [Aura.Web_Project](https://github.com/auraphp/Aura.Web_Project) comes out of the box with Monolog.
-- [Nette Framework](http://nette.org/en/) is usable with Monolog via the [contributte/monolog](https://github.com/contributte/monolog) or [orisai/nette-monolog](https://github.com/orisai/nette-monolog) extensions.
-- [Proton Micro Framework](https://github.com/alexbilbie/Proton) comes out of the box with Monolog.
-- [FuelPHP](http://fuelphp.com/) comes out of the box with Monolog.
-- [Equip Framework](https://github.com/equip/framework) comes out of the box with Monolog.
-- [Yii 2](http://www.yiiframework.com/) is usable with Monolog via the [yii2-monolog](https://github.com/merorafael/yii2-monolog) or [yii2-psr-log-target](https://github.com/samdark/yii2-psr-log-target) plugins.
-- [Hawkbit Micro Framework](https://github.com/HawkBitPhp/hawkbit) comes out of the box with Monolog.
-- [SilverStripe 4](https://www.silverstripe.org/) comes out of the box with Monolog.
-- [Drupal](https://www.drupal.org/) is usable with Monolog via the [monolog](https://www.drupal.org/project/monolog) module.
-- [Aimeos ecommerce framework](https://aimeos.org/) is usable with Monolog via the [ai-monolog](https://github.com/aimeos/ai-monolog) extension.
-- [Magento](https://magento.com/) comes out of the box with Monolog.
-- [Spiral Framework](https://spiral.dev) comes out of the box with Monolog bridge.
 
-### Author
 
-Jordi Boggiano - <j.boggiano@seld.be> - <http://twitter.com/seldaek><br />
-See also the list of [contributors](https://github.com/Seldaek/monolog/contributors) who participated in this project.
 
-### License
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Monolog is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-### Acknowledgements
-
-This library is heavily inspired by Python's [Logbook](https://logbook.readthedocs.io/en/stable/)
-library, although most concepts have been adjusted to fit to the PHP world.
+Please make sure to update tests as appropriate.
